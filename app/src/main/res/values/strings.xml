@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MultipleAppsInOne</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="navigation_item_1">Home</string>
+    <string name="navigation_item_2">Events</string>
+    <string name="subheader">Subheader</string>
+    <string name="closeDrawer">Navigation View</string>
+    <string name="openDrawer">Navigation View Closed</string>
+    <string name="home">Home</string>
+    <string name="a1">Area of Circle</string>
+    <string name="a2">Odd-Even</string>
+    <string name="a3">Temperature Converter</string>
+    <string name="a4">Unit Converter</string>
+    <string name="a5">Simple Interest</string>
+    <string name="a6">String Comparison</string>
+    <string name="a7">Array Operation</string>
+    <string name="a8">Armstrong Number</string>
+    <string name="a9">Random Number</string>
+    <string name="a10">Arithmetic Operations</string>
+    <string name="a11">Swap Array Element</string>
+    <string name="a12">Student Report</string>
+    <string name="a13">Compound Interest</string>
+    <string name="a14">Gross Salary</string>
+    <string name="a15">Driver Eligibility</string>
+    <string name="a16">Character Check</string>
+    <string name="a17">Insurance Premium</string>
+    <string name="a18">Steel Grade</string>
+    <string name="a19">Notes Breakdown</string>
+    <string name="a20">Telephone Bill</string>
+    <string name="a21">Matrix</string>
+    <string name="a22">Record</string>
+    <string name="a23">Calculator</string>
+    <string name="a24">Tic Tac Toe</string>
+
+
+</resources>
